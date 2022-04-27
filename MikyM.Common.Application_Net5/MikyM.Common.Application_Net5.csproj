@@ -4,7 +4,7 @@
     <TargetFramework>net5.0</TargetFramework>
     <Nullable>enable</Nullable>
 	  <PackageId>MikyM.Net5.Common.DDDArchitecture</PackageId>
-	  <Version>1.0.0</Version>
+	  <Version>1.0.1</Version>
 	  <Authors>Krzysztof Kupisz</Authors>
 	  <PackageDescription>Base Domain Driven Design architecture.</PackageDescription>
 	  <RepositoryUrl>https://github.com/MikyM/MikyM.Net5.Common.DDDArchitecture</RepositoryUrl>
@@ -18,7 +18,7 @@
     <PackageReference Include="AutoMapper.Contrib.Autofac.DependencyInjection" Version="6.0.1" />
     <PackageReference Include="AutoMapper.Extensions.ExpressionMapping" Version="5.0.2" />
     <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="11.0.0" />
-    <PackageReference Include="MikyM.Net5.Common.DataAccessLayer" Version="1.0.0" />
+    <PackageReference Include="MikyM.Net5.Common.DataAccessLayer" Version="1.0.1" />
   </ItemGroup>
 
 </Project>
